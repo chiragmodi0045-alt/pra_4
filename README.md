@@ -1,8 +1,5 @@
  Cloud Computing with DevOps Practical
-<p align="center">
-  <img src="images/logo1.png" width="120"/>
-  <img src="images/logo2.png" width="120"/>
-</p>
+
  Students Information
 Field	Details
 Name	Chirag
@@ -15,6 +12,10 @@ Enter Enrollment Number
 Select Subject
 Submit Button
  Logos
+ <p align="center">
+  <img src="images/logo1.png" width="120"/>
+  <img src="images/logo2.png" width="120"/>
+</p>
  Subject
 
 Cloud Computing with DevOps
